@@ -4615,7 +4615,6 @@ dependencies = [
  "tempfile",
  "thiserror",
  "tokio",
- "toml",
  "toml_edit",
  "tracing",
  "uv-configuration",
